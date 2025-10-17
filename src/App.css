@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.game-container {
+  text-align: center;
+  background-color: #bbada0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.game-title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #776e65;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.instructions {
+  margin-top: 20px;
+  color: #776e65;
+  font-size: 0.9rem;
+}
+
+.instructions p {
+  margin: 5px 0;
+}

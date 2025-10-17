@@ -1,0 +1,22 @@
+.score-box {
+  background-color: #bbada0;
+  border-radius: 3px;
+  padding: 10px 15px;
+  text-align: center;
+  min-width: 100px;
+  margin: 0 auto 20px auto;
+}
+
+.score-label {
+  color: #eee4da;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.score-value {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
