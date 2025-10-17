@@ -34,7 +34,7 @@ npm run dev
 
 Open your browser and go to `http://localhost:5173` (or the port shown in terminal) to play the game.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 2048Game/
